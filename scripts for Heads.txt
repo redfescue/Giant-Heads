@@ -1,0 +1,46 @@
+Audio clips for Giant heads	MP3 number shown                   2/12/26
+Segment length shown in seconds, program uses duration = .11 seconds
+Example  duration 200 =  200*.11 = 22 seconds
+
+Becky
+0020	Is that those damn birds again??  2.7 sec
+0021	Do we have to hear about his stupid dog dream again??  4 sec
+0022	Did somebody let the Chordettes out?  2.6 sec
+0024	Not me, but here’s a weird dog  2.7 sec
+0027	The life you lead can be your own. 3.2 sec
+0011    That’s not funny!   1.5 sec
+0012    You think that’s funny? It’s not!  2.5 sec
+0013    You think it’s funny when you say it!  2.3 sec
+
+Steve
+0005   Did you say something, I thought I heard something?    5.9 sec
+0006    I have a radio installed, I guess you could call me a radio head, 
+             or you could say I’m radio active   8.6 sec
+0007    I didn’t hear anything    1.6 sec
+0008    Not me, I didn’t hear anything  2.8 sec
+0009    Me neither, but here’s a nice falcon + bird   10 sec
+0010    No, but here’s a woodpecker + bird   9.8 sec
+0014    OK, it’s a little bit funny  2.7 sec
+0023	Didn’t hear anything, but here’s a nice doggie  4.1 sec
+0025	I didn’t hear anything but did you hear this?  3.8 sec
+0026 	Are you inspired by the Chordettes  (bird shrieks 018)   4.1 sec
+0028	I’m only a talking head, but I can tell that things are pretty realistic today. 6 sec 
+
+Other clips
+0030	Barking dog   8.5 sec
+0029	Cat meows   5.8 sec
+0001-0004   Birds       duration 50
+0015-0018  Birds        duration 50
+
+Dog Dream - Steve
+0041   I’m sorry, you can’t stand here – this is where the dogs come ashore duration 52
+0042   Look, it’s the dogs and they’ve got the mail    duration 62
+0043   Waterdogs, and they’ve got the mail!     Duration 60
+0044   “dogs barking” Dogs are saying, move! “more barking”    duration 80 
+
+Songs   These songs are still under copyright, so I can’t provide them. You can buy them on ITunes for very little. Then save them as MP3 and import them into Audacity to adjust the lengths and save them as:
+
+0081   Mr.Sandman     duration 425
+0082   Lay Down Your Arms   duration 230
+0083   Lollypop     duration 300
+0084   Never on Sunday   duration 402
