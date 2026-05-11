@@ -4,3 +4,4 @@ These Giant Heads sense your presensce, play selected MP3 clips and send a readi
 The next head responcs and sends a radio signal to the next head, etc. 
 
 The Giant Heads are in the Arduino Project Hub as "Installations" 
+The document "Project Description Giant Heads" is the Project Hub Article text
